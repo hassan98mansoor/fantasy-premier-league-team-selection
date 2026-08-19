@@ -1,0 +1,66 @@
+
+=== Dream team: FPL-legal 15 (GBP 100.0m, max 3 per club) ===
+cost GBP 100.0m | squad projection 1896 pts | XI projection 1657 pts
+
+-- starting XI --
+    web_name position team_short  now_cost_m  age  projected_points availability_reason
+        Raya      GKP        ARS         6.0 30.9             168.7     fully available
+     Gabriel      DEF        ARS         8.0 28.7             168.0     fully available
+       Guéhi      DEF        MCI         6.0 26.1             135.7     fully available
+    Mitchell      DEF        CRY         4.5 27.0             119.5     fully available
+      Mbeumo      MID        MUN         8.0 27.0             152.7     fully available
+        Rice      MID        ARS         7.5 27.6             150.9     fully available
+  Szoboszlai      MID        LIV         7.0 25.8             136.1     fully available
+       Foden      MID        MCI         7.0 26.2             133.8     fully available
+Mac Allister      MID        LIV         5.5 27.7             117.8     fully available
+     Haaland      FWD        MCI        15.5 26.1             216.8     fully available
+     Watkins      FWD        AVL         8.0 30.6             156.5     fully available
+
+-- bench --
+   web_name position team_short  now_cost_m  age  projected_points availability_reason
+   Dubravka      GKP        TOT         4.0 37.6              50.2     fully available
+  Mykolenko      DEF        EVE         4.5 27.2              99.0     fully available
+     O'Shea      DEF        IPS         4.0 27.5              42.5     fully available
+Walle Egeli      FWD        IPS         4.5 20.2              47.9     fully available
+
+=== Unlimited-budget 15 (formation + 3-per-club rules only) ===
+cost GBP 118.5m | squad projection 2202 pts | XI projection 1719 pts
+
+-- starting XI --
+   web_name position team_short  now_cost_m  age  projected_points availability_reason
+       Raya      GKP        ARS         6.0 30.9             168.7     fully available
+    Gabriel      DEF        ARS         8.0 28.7             168.0     fully available
+      Guéhi      DEF        MCI         6.0 26.1             135.7     fully available
+   Mitchell      DEF        CRY         4.5 27.0             119.5     fully available
+     Mbeumo      MID        MUN         8.0 27.0             152.7     fully available
+       Saka      MID        ARS         9.5 25.0             152.7     fully available
+    Semenyo      MID        MCI         8.5 26.6             152.5     fully available
+B.Fernandes      MID        MUN        12.0 31.9             148.4     fully available
+Gibbs-White      MID        NFO         8.0 26.6             147.3     fully available
+    Haaland      FWD        MCI        15.5 26.1             216.8     fully available
+    Watkins      FWD        AVL         8.0 30.6             156.5     fully available
+
+-- bench --
+  web_name position team_short  now_cost_m  age  projected_points availability_reason
+  Pickford      GKP        EVE         5.5 32.5             133.9     fully available
+   Lacroix      DEF        CHE         6.0 26.4             108.3     fully available
+   Collins      DEF        BRE         5.5 25.3             102.6     fully available
+João Pedro      FWD        CHE         7.5 24.9             138.4     fully available
+
+=== Naive ranking: top 15 by raw 5-season points ===
+   web_name position team_short  now_cost_m  age  total_points availability_reason
+    Haaland      FWD        MCI        15.5 26.1         909.0     fully available
+B.Fernandes      MID        MUN        12.0 31.9         902.0     fully available
+       Saka      MID        ARS         9.5 25.0         891.0     fully available
+    Watkins      FWD        AVL         8.0 30.6         887.0     fully available
+     Mbeumo      MID        MUN         8.0 27.0         780.0     fully available
+    Gabriel      DEF        ARS         8.0 28.7         767.0     fully available
+      Foden      MID        MCI         7.0 26.2         745.0     fully available
+     Virgil      DEF        LIV         6.5 35.1         745.0     fully available
+   Ødegaard      MID        ARS         6.5 27.7         719.0     fully available
+       Raya      GKP        ARS         6.0 30.9         700.0     fully available
+       Rice      MID        ARS         7.5 27.6         687.0     fully available
+   Pickford      GKP        EVE         5.5 32.5         686.0     fully available
+   A.Becker      GKP        LIV         5.5 33.9         648.0     fully available
+Gibbs-White      MID        NFO         8.0 26.6         630.0     fully available
+   Bruno G.      MID        ARS         7.0 28.8         616.0     fully available

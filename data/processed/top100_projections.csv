@@ -1,0 +1,101 @@
+web_name,full_name,position,team_short,now_cost_m,age,status,availability,availability_reason,total_points,last_season_points,w_points_per_90,age_factor,team_factor,confidence,projected_minutes,projected_points
+Haaland,Erling Haaland,FWD,MCI,15.5,26.1,a,1.0,fully available,909.0,239.0,7.183,1.0,1.072,0.959,2765.416,216.795
+Raya,David Raya Martín,GKP,ARS,6.0,30.9,a,1.0,fully available,700.0,162.0,4.15,0.991,1.22,1.0,3224.166,168.655
+Gabriel,Gabriel dos Santos Magalhães,DEF,ARS,8.0,28.7,a,1.0,fully available,767.0,209.0,5.186,0.976,1.22,1.0,2753.002,168.024
+Watkins,Ollie Watkins,FWD,AVL,8.0,30.6,a,1.0,fully available,887.0,167.0,5.645,0.922,1.01,1.0,2755.307,156.531
+Mbeumo,Bryan Mbeumo,MID,MUN,8.0,27.0,a,1.0,fully available,780.0,148.0,5.379,1.0,1.017,1.0,2708.578,152.665
+Saka,Bukayo Saka,MID,ARS,9.5,25.0,a,1.0,fully available,891.0,157.0,6.348,1.0,1.043,1.0,2331.672,152.65
+Semenyo,Antoine Semenyo,MID,MCI,8.5,26.6,a,1.0,fully available,492.0,202.0,5.155,1.0,1.056,0.959,2729.692,152.548
+Rice,Declan Rice,MID,ARS,7.5,27.6,a,1.0,fully available,687.0,184.0,4.405,0.994,1.043,1.0,3071.952,150.95
+B.Fernandes,Bruno Borges Fernandes,MID,MUN,12.0,31.9,a,1.0,fully available,902.0,235.0,5.608,0.874,1.017,1.0,2890.725,148.406
+Gibbs-White,Morgan Gibbs-White,MID,NFO,8.0,26.6,a,1.0,fully available,630.0,188.0,4.859,1.0,0.994,1.0,2900.592,147.329
+João Pedro,João Pedro Junqueira de Jesus,FWD,CHE,7.5,24.9,a,1.0,fully available,467.0,177.0,5.51,1.0,1.021,0.938,2284.238,138.415
+Szoboszlai,Dominik Szoboszlai,MID,LIV,7.0,25.8,a,1.0,fully available,402.0,160.0,4.632,1.0,1.045,0.894,2690.261,136.1
+Guéhi,Marc Guéhi,DEF,MCI,6.0,26.1,a,1.0,fully available,579.0,179.0,3.896,1.0,1.109,1.0,3020.195,135.735
+Pickford,Jordan Pickford,GKP,EVE,5.5,32.5,a,1.0,fully available,686.0,135.0,3.756,0.97,1.032,1.0,3347.956,133.887
+Foden,Phil Foden,MID,MCI,7.0,26.2,a,1.0,fully available,745.0,131.0,6.127,1.0,1.056,1.0,2100.867,133.82
+Rogers,Morgan Rogers,MID,CHE,7.5,24.1,a,1.0,fully available,365.0,169.0,4.66,1.0,1.016,0.894,2645.115,130.569
+Cunha,Matheus Santos Carneiro da Cunha,MID,MUN,8.0,27.2,a,1.0,fully available,495.0,143.0,5.364,0.998,1.017,0.959,2309.949,127.032
+Bruno G.,Bruno Guimarães Rodriguez Moura,MID,ARS,7.0,28.8,a,1.0,fully available,616.0,154.0,4.489,0.974,1.043,1.0,2601.384,126.735
+Palmer,Cole Palmer,MID,CHE,9.5,24.3,a,1.0,fully available,600.0,114.0,6.282,1.0,1.016,1.0,2021.158,126.099
+Enzo,Enzo Fernández,MID,CHE,7.0,25.6,a,1.0,fully available,411.0,157.0,4.028,1.0,1.016,0.959,2752.974,123.18
+Anderson,Elliot Anderson,MID,MCI,6.5,23.8,a,1.0,fully available,359.0,180.0,4.367,1.004,1.056,0.959,2491.08,122.636
+Gakpo,Cody Gakpo,MID,LIV,7.0,27.3,a,1.0,fully available,454.0,131.0,5.072,0.997,1.045,0.959,2272.753,122.448
+Mitchell,Tyrick Mitchell,DEF,CRY,4.5,27.0,a,1.0,fully available,579.0,135.0,3.487,1.0,1.011,1.0,3183.424,119.468
+Thiago,Igor Thiago Nascimento Rodrigues,FWD,BRE,8.0,25.1,a,1.0,fully available,190.0,181.0,4.959,1.0,1.017,0.787,2098.684,118.069
+Mac Allister,Alexis Mac Allister,MID,LIV,5.5,27.7,a,1.0,fully available,572.0,108.0,3.942,0.993,1.045,1.0,2618.452,117.838
+Evanilson,Francisco Evanilson de Lima Barbosa,FWD,BOU,6.0,26.9,a,1.0,fully available,243.0,115.0,4.229,1.0,1.014,0.787,2250.27,115.41
+Eze,Eberechi Eze,MID,ARS,6.5,28.1,a,1.0,fully available,587.0,113.0,5.405,0.988,1.043,1.0,2002.807,112.788
+Mateta,Jean-Philippe Mateta,FWD,CRY,6.5,29.1,a,1.0,fully available,531.0,114.0,5.191,0.967,0.969,1.0,2085.724,111.465
+Tavernier,Marcus Tavernier,MID,BOU,6.0,27.4,a,1.0,fully available,407.0,137.0,4.303,0.996,1.011,0.959,2353.408,109.069
+Verbruggen,Bart Verbruggen,GKP,BHA,4.5,24.0,a,1.0,fully available,301.0,130.0,3.2,1.027,1.015,0.894,3003.801,108.988
+Gravenberch,Ryan Gravenberch,MID,LIV,6.0,24.3,a,1.0,fully available,281.0,144.0,3.597,1.0,1.045,0.894,2549.542,108.417
+Lacroix,Maxence Lacroix,DEF,CHE,6.0,26.4,a,1.0,fully available,268.0,154.0,3.987,1.0,1.024,0.787,2692.799,108.302
+Sánchez,Robert Lynch Sánchez,GKP,CHE,5.0,28.8,a,1.0,fully available,506.0,113.0,3.577,1.0,1.026,1.0,2764.361,107.95
+Fernandes,Mateus Fernandes,MID,TOT,6.0,22.1,a,1.0,fully available,230.0,135.0,3.58,1.03,0.999,0.787,2568.783,107.662
+Schade,Kevin Schade,MID,BRE,6.0,24.7,a,1.0,fully available,336.0,125.0,4.856,1.0,1.013,0.959,2125.401,107.247
+Wilson,Harry Wilson,MID,LEE,6.5,29.4,a,1.0,fully available,408.0,168.0,5.67,0.958,0.987,0.959,2026.806,106.512
+Henderson,Dean Henderson,GKP,CRY,5.0,29.4,a,1.0,fully available,396.0,131.0,3.522,1.0,1.012,0.959,2776.546,105.141
+Matheus N.,Matheus Nunes,DEF,MCI,6.0,28.0,d,0.975,"doubtful, 75% chance for GW1",347.0,154.0,4.329,0.99,1.109,0.959,2235.197,104.519
+Ødegaard,Martin Ødegaard,MID,ARS,6.5,27.7,a,1.0,fully available,719.0,74.0,5.048,0.993,1.043,1.0,1932.878,104.294
+Calvert-Lewin,Dominic Calvert-Lewin,FWD,LEE,6.0,29.4,a,1.0,fully available,410.0,142.0,4.242,0.958,0.984,1.0,2223.098,104.207
+Martinez,Emiliano Martínez Romero,GKP,AVL,5.0,34.0,a,1.0,fully available,610.0,120.0,3.543,0.93,1.02,1.0,2858.013,102.914
+Neto,Pedro Lomba Neto,MID,CHE,6.5,26.4,a,1.0,fully available,374.0,125.0,4.304,1.0,1.016,1.0,2193.89,102.661
+Collins,Nathan Collins,DEF,BRE,5.5,25.3,a,1.0,fully available,444.0,129.0,3.387,1.0,0.996,1.0,2851.075,102.585
+Milenković,Nikola Milenković,DEF,NFO,5.5,28.9,a,1.0,fully available,264.0,119.0,3.484,0.972,1.022,0.787,2864.166,102.224
+Leno,Bernd Leno,GKP,FUL,4.5,34.5,a,1.0,fully available,522.0,122.0,3.299,0.91,1.006,1.0,3100.732,101.842
+Donnarumma,Gianluigi Donnarumma,GKP,MCI,5.5,27.5,a,1.0,fully available,135.0,135.0,3.971,1.0,1.117,0.6,2363.572,101.021
+Truffert,Adrien Truffert,DEF,BOU,5.5,24.7,a,1.0,fully available,165.0,165.0,4.396,1.0,1.01,0.6,2510.365,100.605
+Iwobi,Alex Iwobi,MID,FUL,5.5,30.3,a,1.0,fully available,565.0,103.0,4.011,0.931,0.989,1.0,2470.585,99.94
+O.Dango,Dango Ouattara,MID,BRE,6.5,24.5,a,1.0,fully available,352.0,136.0,4.952,1.0,1.013,0.959,1951.513,99.773
+Barnes,Harvey Barnes,MID,NEW,6.0,28.7,a,1.0,fully available,575.0,106.0,5.578,0.976,1.011,1.0,1824.733,99.713
+Caicedo,Moisés Caicedo Corozo,MID,CHE,5.5,24.8,a,1.0,fully available,398.0,110.0,2.928,1.0,1.016,1.0,2813.472,99.682
+Mykolenko,Vitalii Mykolenko,DEF,EVE,4.5,27.2,a,1.0,fully available,434.0,95.0,3.191,0.998,1.03,1.0,2796.729,99.033
+Senesi,Marcos Senesi Barón,DEF,TOT,6.0,29.3,a,1.0,fully available,377.0,175.0,4.048,0.961,0.968,0.959,2573.994,97.814
+Gyökeres,Viktor Gyökeres,FWD,ARS,7.5,28.2,a,1.0,fully available,128.0,128.0,5.196,0.986,1.055,0.6,1662.802,97.75
+Roefs,Robin Roefs,GKP,SUN,5.0,23.6,a,1.0,fully available,136.0,136.0,3.886,1.023,1.031,0.6,2445.132,97.65
+Pedro Porro,Pedro Porro Sauceda,DEF,TOT,5.5,26.9,a,1.0,fully available,410.0,117.0,3.758,1.0,0.968,0.959,2596.522,97.473
+N.Williams,Neco Williams,DEF,NFO,5.0,25.3,a,1.0,fully available,334.0,128.0,3.387,1.0,1.022,1.0,2645.014,97.033
+Strand Larsen,Jørgen Strand Larsen,FWD,CRY,6.0,26.5,a,1.0,fully available,220.0,75.0,3.879,1.0,0.969,0.787,2056.201,96.468
+Dalot,Diogo Dalot Teixeira,DEF,MUN,5.0,27.4,a,1.0,fully available,473.0,111.0,3.445,0.996,1.009,1.0,2626.279,96.428
+Konsa,Ezri Konsa Ngoyo,DEF,AVL,4.5,28.8,a,1.0,fully available,482.0,100.0,2.953,0.974,1.019,1.0,2976.414,95.96
+A.Becker,Alisson Becker,GKP,LIV,5.5,33.9,a,1.0,fully available,648.0,91.0,3.959,0.933,1.026,1.0,2429.271,95.848
+Zubimendi,Martín Zubimendi Ibáñez,MID,ARS,5.5,27.5,a,1.0,fully available,133.0,133.0,4.002,0.995,1.043,0.6,2124.331,95.28
+Sarr,Ismaïla Sarr,MID,CRY,6.5,28.5,a,1.0,fully available,347.0,117.0,4.807,0.98,0.976,0.837,2023.183,94.709
+Rúben,Rúben dos Santos Gato Alves Dias,DEF,MCI,5.5,29.3,a,1.0,fully available,512.0,113.0,4.028,0.961,1.109,1.0,2169.282,94.699
+Van Hecke,Jan Paul van Hecke,DEF,TOT,5.0,26.2,a,1.0,fully available,302.0,148.0,3.304,1.0,0.968,0.959,2744.157,93.5
+O'Reilly,Nico O'Reilly,DEF,MCI,6.5,21.4,a,1.0,fully available,191.0,160.0,5.432,1.041,1.109,0.787,1773.464,93.279
+E.Le Fée,Enzo Le Fée,MID,SUN,6.0,26.5,a,1.0,fully available,147.0,147.0,4.515,1.0,0.969,0.6,2093.055,92.992
+Isak,Alexander Isak,FWD,LIV,9.0,26.9,a,1.0,fully available,524.0,41.0,6.516,1.0,1.058,0.959,1321.816,92.425
+Cash,Matty Cash,DEF,AVL,4.5,29.0,a,1.0,fully available,461.0,117.0,3.316,0.97,1.019,1.0,2638.304,92.324
+Richarlison,Richarlison de Andrade,FWD,TOT,6.0,29.3,a,1.0,fully available,455.0,119.0,5.727,0.961,0.999,1.0,1575.82,91.569
+Scott,Alex Scott,MID,BOU,6.0,23.0,a,1.0,fully available,203.0,136.0,4.058,1.018,1.011,0.894,2014.921,90.993
+Damsgaard,Mikkel Damsgaard,MID,BRE,5.5,26.1,a,1.0,fully available,322.0,113.0,4.441,1.0,1.013,0.959,1913.115,90.793
+Igor Jesus,Igor Jesus Maciel da Cruz,FWD,NFO,6.0,25.5,a,1.0,fully available,114.0,114.0,4.474,1.0,0.992,0.6,1720.124,90.564
+Muñoz,Daniel Muñoz Mejía,DEF,CRY,5.5,30.2,a,1.0,fully available,334.0,136.0,4.4,0.934,1.011,0.894,2229.238,90.223
+Doku,Jérémy Doku,MID,MCI,7.5,24.2,d,0.975,"doubtful, 75% chance for GW1",306.0,120.0,5.729,1.0,1.056,0.894,1559.23,89.855
+Gvardiol,Joško Gvardiol,DEF,MCI,5.5,24.6,a,1.0,fully available,355.0,79.0,4.609,1.0,1.109,0.894,1838.691,89.73
+Dewsbury-Hall,Kiernan Dewsbury-Hall,MID,EVE,6.5,28.0,a,1.0,fully available,321.0,151.0,4.598,0.99,0.978,0.906,1949.078,89.662
+Johnson,Brennan Johnson,MID,EVE,6.0,25.2,a,1.0,fully available,455.0,65.0,4.491,1.0,0.978,0.959,1928.858,89.332
+Tarkowski,James Tarkowski,DEF,EVE,6.0,33.7,a,1.0,fully available,581.0,170.0,3.589,0.778,1.03,1.0,2904.319,88.523
+Kelleher,Caoimhín Kelleher,GKP,BRE,5.0,27.7,a,1.0,fully available,232.0,143.0,3.899,1.0,0.996,1.0,2218.5,87.737
+Wirtz,Florian Wirtz,MID,LIV,7.5,23.3,a,1.0,fully available,125.0,125.0,4.739,1.008,1.045,0.6,1766.845,86.982
+Mukiele,Nordi Mukiele,DEF,SUN,5.5,28.8,d,0.975,"doubtful, 75% chance for GW1",151.0,151.0,4.881,0.974,1.029,0.6,2072.815,86.804
+Ndiaye,Iliman Ndiaye,MID,EVE,6.0,26.5,a,1.0,fully available,242.0,128.0,4.176,1.0,0.978,0.787,1988.54,86.472
+Kerkez,Milos Kerkez,DEF,LIV,5.5,22.8,a,1.0,fully available,278.0,85.0,3.369,1.021,1.024,0.894,2333.491,86.419
+Martinelli,Gabriel Martinelli Silva,MID,ARS,6.5,25.2,a,1.0,fully available,608.0,57.0,5.276,1.0,1.043,1.0,1557.128,86.357
+Aaronson,Brenden Aaronson,MID,LEE,5.5,25.8,a,1.0,fully available,209.0,126.0,4.272,1.0,0.987,0.693,1944.565,86.107
+Richards,Chris Richards,DEF,CRY,5.0,26.4,a,1.0,fully available,271.0,128.0,3.537,1.0,1.011,0.959,2316.49,86.021
+Lewis-Potter,Keane Lewis-Potter,MID,BRE,5.5,25.5,a,1.0,fully available,296.0,115.0,4.024,1.0,1.013,0.959,1914.793,85.034
+Woltemade,Nick Woltemade,FWD,NEW,6.0,24.5,a,1.0,fully available,108.0,108.0,5.127,1.0,1.015,0.6,1481.924,84.443
+Pope,Nick Pope,GKP,NEW,5.0,34.3,a,1.0,fully available,542.0,96.0,3.744,0.918,1.005,1.0,2317.929,84.077
+Virgil,Virgil van Dijk,DEF,LIV,6.5,35.1,a,1.0,fully available,745.0,175.0,4.18,0.682,1.024,1.0,2785.4,84.037
+Stach,Anton Stach,MID,LEE,6.0,27.8,a,1.0,fully available,137.0,137.0,5.205,0.992,0.987,0.6,1749.429,83.926
+Cherki,Rayan Cherki,MID,MCI,7.5,23.0,a,1.0,fully available,135.0,135.0,6.857,1.012,1.056,0.6,1406.645,83.708
+Sels,Matz Sels,GKP,NFO,5.0,34.5,a,1.0,fully available,289.0,105.0,3.539,0.91,1.023,0.894,2393.664,83.087
+Thiaw,Malick Thiaw,DEF,NEW,5.0,25.0,a,1.0,fully available,126.0,126.0,3.827,1.0,1.004,0.6,2261.365,82.983
+Andersen,Joachim Andersen,DEF,FUL,5.0,30.2,s,0.94,suspended for the opening matches,499.0,123.0,3.052,0.934,1.005,1.0,2638.788,82.574
+Lammens,Senne Lammens,GKP,MUN,5.0,24.1,a,1.0,fully available,109.0,109.0,3.406,1.017,1.01,0.6,2275.196,82.55
+Wharton,Adam Wharton,MID,CRY,5.5,22.5,a,1.0,fully available,204.0,112.0,3.63,1.027,0.976,0.894,1999.263,82.242
+Yarmoliuk,Yehor Yarmoliuk,MID,BRE,5.0,22.5,a,1.0,fully available,180.0,104.0,3.39,1.027,1.013,0.894,1997.685,82.038
+Tielemans,Youri Tielemans,MID,MUN,6.0,29.3,a,1.0,fully available,472.0,68.0,3.61,0.961,1.017,1.0,2062.717,82.03
